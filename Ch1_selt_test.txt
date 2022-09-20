@@ -1,0 +1,37 @@
+Santa Monica College, CS52 (1766) fall 2022
+Student : Olivier Ged
+Date 9/19/2022
+Chapter 1 Self-Test Exercises
+
+
+1. What are the five main components of a computer?
+CPU
+Primary memory or RAM
+Secondary memory or Storage
+input devices (keyboard, mouse)
+output devices (screen)
+
+
+3. What would be the data for a program that assigns letter grades to students
+in a class?
+The actual grades given by the teacher and a list of students attending the class.
+
+
+5. What is the role of a compiler?
+Converting the high level language code of a program into Assembly code.
+
+
+
+7. What is an operating system?
+It is a program which allocate the ressources of the computer to all softwares and hardwares.
+
+
+9. Name the operating system that runs on the computer you use to prepare
+programs for this course.
+Windows 10
+
+
+11. Find out whether linking is done automatically by the compiler you use
+for this course.
+Yes it does!
+I wrote a simple hello world! program accross 2 files and it worked once I built the solution.
