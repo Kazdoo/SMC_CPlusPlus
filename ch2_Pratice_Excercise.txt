@@ -14,13 +14,25 @@ payRateHourly
 maxScore
 
 9.
+int the_number = 0;
 
+cout << "enter a whole number:" <<;
+cin >> the_number;
 
 11.
 
+#include <iostream>;
+using namespaces std;
+
+void main()
+{
+cout << "Hello world" <<
+
+return;
+}
 
 13.
-
+cout << "\n \t";
 
 
 15.
