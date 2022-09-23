@@ -53,32 +53,77 @@ b. 9/5 is not a double, rounding it to 1, instead of 1.8
 c. f = ( 9.0/5.0) * c + 32.0;
 
 21.
-
-
+if (score > 100)
+  cout << "High";
+else
+  cout <<"Low";
+    
 
 23.
+
+if ((exam >= 60) && (programs_done >= 10))
+  cout << "Passed";
+else
+  cout << "Failed";
 
 
 25.
 
+(x < -1) || (x > 2)
+
 
 27.
+a. 0 is False, because in a boolean 0 is synonym with False.
+b & c True because anything not 0 is True in a boolean
 
 
 29.
+infinite loop because x will always be smaller than 10.
 
 
 
 31.
-
+infinite loop because x will never be more than 0
 
 
 33.
-
+infinite loop as x will always be more than 10
 
 
 35.
+if (x < 0)
+  {
+    x=7;
+    cout << "x is now positive.";
+  }
 
-
+else
+  {
+    x = -7;
+    cout << "x is now mnegative.";
+  }
+  
 
 37.
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+
+  const G_TO_L = 3.78533;
+  double gallons;
+
+  cout << "Enter a number of gallon(s)/n";
+  cin >> nbGallons
+  cout << "it makes " << G_TO_L * nGallons << "liters."
+  
+  return 0;
+}
+
+
+
+
+
+
+
